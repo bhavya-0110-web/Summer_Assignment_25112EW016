@@ -15,3 +15,4 @@ int reverse(int n,int rev)
     else
     return reverse(n/10,rev*10+n%10);
 }
+//for example reverse of 237 will be 732
