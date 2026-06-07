@@ -15,3 +15,4 @@ int main()
     else
     return (n%10+sumdigits(n/10));
   }
+//if we entere 532 then output will be 5+3+2=10
