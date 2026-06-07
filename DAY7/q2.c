@@ -21,3 +21,4 @@ return 1;
 else
 return fib(n-1)+fib(n-2) ;
 }
+//if the user entered 5 then it will print five fibonacci terms .i.e. 0 1 1 2 3
